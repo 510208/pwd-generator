@@ -5,7 +5,7 @@ body {
     min-height: 100vh;
     margin: 0;
     background-color: #f8f9fa;
-    background-image: url("/image/background/background.svg");
+    background-image: url("https://510208.github.io/pwd-generator/image/background/background.svg");
     background-repeat: no-repeat; /* 仅在纵向方向重复 */
     background-size: cover; /* 宽度保持原始，高度铺满 */
     background-position: center; /* 将图像在垂直和水平方向上居中 */
